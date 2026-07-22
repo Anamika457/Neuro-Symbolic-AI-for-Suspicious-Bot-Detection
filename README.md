@@ -36,14 +36,14 @@ The implementation is available in the **`research_baseline/`** directory.
 
 ## Future Work
 
-The next phase of the project focuses on developing the proposed Neuro-Symbolic AI framework for suspicious bot detection by:
+The next phase of the project focuses on adapting the reproduced neuro-symbolic framework for suspicious social bot detection by:
 
 - Constructing temporal social interaction graphs
 - Learning user representations using Graph Neural Networks (GNNs) and Temporal Graph Attention Networks (TGAT)
 - Developing a symbolic knowledge base and reasoning engine
-- Fusing neural predictions with symbolic inference
+- Integrating neural predictions with symbolic inference
 - Generating interpretable explanations for bot classifications
-- Evaluating the framework on benchmark datasets such as Twibot-22, Twibot-20, Cresci-2017, and Botometer. :contentReference[oaicite:2]{index=2}
+- Evaluating the framework on benchmark datasets and tools such as Twibot-22, Twibot-20, Cresci-2017, and Botometer.
 
 ---
 
