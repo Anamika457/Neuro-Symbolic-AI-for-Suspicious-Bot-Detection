@@ -4,9 +4,9 @@
 
 The rapid growth of social media platforms has led to an increase in sophisticated automated and coordinated bot accounts capable of spreading misinformation, manipulating online discourse, and evading conventional detection methods. Although recent Graph Neural Network (GNN)-based approaches achieve high detection accuracy, they often function as black-box models, making it difficult to interpret or justify their predictions.
 
-This project aims to develop a **Neuro-Symbolic AI framework** for suspicious bot detection by integrating graph-based deep learning with symbolic reasoning. The proposed framework combines learned user representations with expert-defined logical rules to accurately classify genuine users, suspicious accounts, automated bots, and coordinated bot networks while providing transparent, human-interpretable explanations for every prediction. :contentReference[oaicite:0]{index=0}
+This project aims to develop a **Neuro-Symbolic AI framework** for suspicious bot detection by integrating graph-based deep learning with symbolic reasoning. The proposed framework combines learned user representations with expert-defined logical rules to accurately classify genuine users, suspicious accounts, automated bots, and coordinated bot networks while providing transparent, human-interpretable explanations for every prediction.
 
-The framework leverages user profile information, content characteristics, temporal activity, and interaction patterns to construct dynamic social graphs. Neural learning captures complex behavioral patterns, while symbolic reasoning incorporates domain knowledge to improve explainability, robustness, and adaptability against evolving bot behavior. :contentReference[oaicite:1]{index=1}
+The framework leverages user profile information, content characteristics, temporal activity, and interaction patterns to construct dynamic social graphs. Neural learning captures complex behavioral patterns, while symbolic reasoning incorporates domain knowledge to improve explainability, robustness, and adaptability against evolving bot behavior. 
 
 ---
 
